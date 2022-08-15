@@ -1,0 +1,72 @@
+body{
+    position: relative;
+}
+#navbarMonstera{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 4rem;
+}
+#navMid{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    align-items: center;
+}
+#navItem{
+    padding-right: 2rem;
+}
+#navEnd{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    align-items: center;
+}
+#navEnd-item{
+    margin-right: 2rem;
+}
+#monstera{
+    font-size: 5rem;
+    padding-top: 2rem;
+    font-weight: 4000%;
+}
+#listPara-1{
+    margin-top: -3rem;
+}
+#listPara-2{
+    margin-top: 1rem;
+}
+#btn{
+    background-color: greenyellow;
+    border: none;
+    font-size: 3rem;
+    margin: 2rem 2rem 4rem ;
+    border-radius: 1.5rem;
+    padding: 0.5rem 1.5rem;
+    padding-right: 4rem;
+}
+
+#midWhole{
+    position: relative;
+}
+#imgMain{
+    position: absolute;
+    right: 0;
+    bottom: -20%;
+    width: 400px;
+}
+
+#midWholePart122{
+    position: absolute;
+    top: 15.6rem;
+    left: 21rem;
+}
+
+#midWholePart13{
+    display: flex;
+    width: 60rem;
+}
+.midWholePart13Parts{
+    display: flex;
+    margin-right: 2rem;
+}
