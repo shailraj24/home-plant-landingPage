@@ -13,4 +13,4 @@ it's take near about 2 Hour to complete.
 
 ## Deployed link
 
-[Home Plant](ninis-restaurant.netlify.app)
+[Home Plant](home-plant.netlify.app)
