@@ -13,4 +13,4 @@ it's take near about 2 Hour to complete.
 
 ## Deployed link
 
-[Home Plant](home-plant.netlify.app)
+[Home Plant](https://home-plant.netlify.app)
